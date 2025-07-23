@@ -234,7 +234,7 @@ streamlit run app.py
 
 ## 🤝 Contributing
 
-This project was developed as part of an AI/ML internship assignment. For questions or suggestions, please contact the development team.
+This project was developed by Aditi Singh.
 
 ## 📄 License
 
@@ -242,6 +242,4 @@ This project is developed for educational and demonstration purposes as part of 
 
 ---
 
-**Built with ❤️ for TalentScout by AI/ML Intern Candidate**
 
-*Demonstrating the power of AI in modern recruitment processes*
