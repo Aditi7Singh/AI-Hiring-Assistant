@@ -1,6 +1,8 @@
 # 🎯 TalentScout AI Hiring Assistant
 
 An intelligent chatbot for automated candidate screening in technology recruitment, built with Streamlit and Large Language Models.
+<img width="1512" height="982" alt="Screenshot 2025-07-23 at 10 37 00 PM" src="https://github.com/user-attachments/assets/de586b16-15b3-4ea5-bf81-1e531ced5dae" />
+
 
 ## 📋 Project Overview
 
